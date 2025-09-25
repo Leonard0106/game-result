@@ -198,7 +198,6 @@ h2 {
     border-radius: 16px;
     background: #f8f8f8;
     border: 2px solid #ccc;
-    box-shadow: 3px 3px 8px rgba(0,0,0,0.3), inset -2px -2px 6px rgba(0,0,0,0.1);
     display: flex;
     align-items: center;
     justify-content: center;
